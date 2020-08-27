@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css?family=Muli');
+body{
+	font-family: 'Muli', sans-serif;
+	width: 414px;	
+	height: 744px;
+	margin: 0;
+
+}	
+.ticket-img{
+	text-align: center;
+	padding: 20px 0px;
+}
+
+.main-ticket{
+	background-color: #ffffff;
+	padding: 0 20px;
+	/*width: 414px;
+    height: 744px;*/
+}
+
+.ticket-box{
+
+	background-color: #f77a62;
+	text-align: left;
+	color: #fff;
+	padding: 8px 20px;
+	margin-bottom: 5px;
+	
+}
+.ticket-box-a{
+	font-size: 26px;
+	padding-top: 15px;
+	font-weight: 600;
+}
+.ticket-box-b {
+	font-size: 16px;
+	color: #7e6e6e;
+	padding: 15px 0px;
+	color: #fff;
+}
+.ticket-box p{
+	margin: 0px !important;
+}	
+.ticket-name p {
+	margin:  0px;
+}
+.ticket-name-a , .ticket-id-a, .ticket-ve-lab-a{
+	font-size: 16px;
+	color: #7e6e6e;
+	padding: 10px 0;
+}
+.ticket-name-b {
+	font-size: 21px;
+	padding-bottom: 10px;
+	font-weight: 600;
+}
+.ticket-date-time{
+	width: 100%;
+
+}
+.ticket-date-time p{
+	margin: 0px;
+}
+.ticket-ID{
+	width: 32%;
+	float: left;
+}
+.ticket-time{
+	width: 67%;
+	display: inline-block;
+}
+
+.ticket-id-b{
+	padding-bottom: 10px;
+	font-weight: 600;
+	font-size: 20px;
+}
+.ticket-venue{
+	width: 100%;
+	padding-bottom: 23px;
+	border-bottom: 1px dashed #7e6e6e;
+
+}
+.ticket-ven-a p{
+	margin: 0;
+}
+.ticket-ven-a{
+	width: 80%;
+	float: left;
+}
+.ticket-ven-b{
+	width: 18%;
+	margin-top: 40px;
+	display: inline-block;
+}
+.ticket-ve-lab-b{
+	font-size: 20px;
+	padding-top: 10px;
+	margin-bottom: 5px;
+	display: inline-block;
+	font-weight: 600;
+	color: #111111;
+}
+.ticket-ve-lab-c{
+	color: #111111;
+	font-size: 16px;
+	padding-top: 5px;
+	font-weight: 600;
+}
+.ticket-entry{
+	border-bottom: 4px solid #f77a62;
+	background-color: #fff;
+}
+.ticket-entry p {
+	margin:0;
+	padding: 17px;
+}
+.ticket-entry-a{
+	text-align: center;
+	color: #7e6e6e;
+}
